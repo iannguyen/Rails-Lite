@@ -1,0 +1,3 @@
+# Rails Lite
+
+### Coming Soon
